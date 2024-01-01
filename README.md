@@ -45,4 +45,75 @@ Building an application that can detect the presence of a mental stress or the p
 ![image](https://user-images.githubusercontent.com/64016811/199024885-c3c519d2-b67d-40a7-9804-ea9c7ad938af.png)
 ![image](https://user-images.githubusercontent.com/64016811/199025007-87d895ee-f812-4987-9acd-e46a88d2055e.png)
 
+# How to run on the project on your local 
+
+
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+What things you need to install the software and how to install them.
+
+- Python (version 3.9)
+- seaborn
+-streamlit
+- numpy
+- matplotlib
+- pandas
+- scikit_learn
+
+### Installation
+
+1. **Clone the repository:**
+
+    ```bash
+   https://github.com/anshumanbehera27/stress-level-detector.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd your-repo
+    ```
+
+3. **Create and activate a virtual environment (optional but recommended):**
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Linux/Mac
+    # or
+    .\venv\Scripts\activate  # On Windows
+    ```
+
+4. **Install project dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+   This command installs all the necessary libraries specified in `requirements.txt`.
+
+5. **Run the code using this command;**
+     ```bash
+    python -m streamlit run app.py 
+    ```
+  
+
+## License
+
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+
 
