@@ -111,9 +111,7 @@ What things you need to install the software and how to install them.
     ```
   
 
-## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
